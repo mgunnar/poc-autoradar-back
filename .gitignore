@@ -25,3 +25,4 @@ Thumbs.db
 # Logs
 *.log
 debug_last_scrape.html
+src/main/java/com/autoradar/debug/*
