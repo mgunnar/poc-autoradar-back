@@ -24,3 +24,4 @@ Thumbs.db
 
 # Logs
 *.log
+debug_last_scrape.html
